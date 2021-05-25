@@ -1,2 +1,1 @@
-console.log('help test');
-console.log('help test22');
+console.log('DMC Media ON-Site Marketing JS Library Loading ...');
